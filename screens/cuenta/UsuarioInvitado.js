@@ -40,7 +40,7 @@ const styles = StyleSheet.create({
     description: {
         textAlign: "justify",
         marginBottom: 20,
-        color: "#442484"
+        //color: "#442484"
     },
     button: {
         //color: "#fff"
